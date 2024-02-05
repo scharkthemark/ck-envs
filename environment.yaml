@@ -1,0 +1,9 @@
+name: ck
+
+channels:
+    - conda-forge
+    - defaults
+
+dependencies:
+    - cookiecutter=2.5
+    - ghapi=1.0
